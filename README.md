@@ -25,9 +25,9 @@ Podes removê-los se não quiseres esse aspeto ou se preferires menos pedidos ex
 <h3 align="left">👩‍💻 Sobre mim</h3>
 
 <p align="left">
-  Estudo Bioinformática e tenho curiosidade sobre [].<br>
-  🔭 Gostava de investigar [PERGUNTA SIMPLES].<br>
-  📚 Neste momento estou a aprender [ALGO QUE ESTEJAS A APRENDER].<br>
+  Estudo Bioinformática e tenho curiosidade sobre IA na Saúde.<br>
+  🔭 Gostava de investigar IA na genomica.<br>
+  📚 Neste momento estou a aprender Java.<br>
   ⚡ Fora das aulas gosto de [ATIVIDADE OPCIONAL].
 </p>
 
