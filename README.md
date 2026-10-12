@@ -20,7 +20,7 @@ Podes removê-los se não quiseres esse aspeto ou se preferires menos pedidos ex
 
 <p align="center"><em>Badges de exemplo: remove os serviços que não usas. Não são ligações para perfis pessoais.</em></p>
 
-<h1 align="center">Olá, sou [Inês Pinto] 👋</h1>
+<h1 align="center">Olá, sou Inês Pinto 👋</h1>
 
 <h3 align="left">👩‍💻 Sobre mim</h3>
 
